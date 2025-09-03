@@ -32,10 +32,14 @@
   <img src="https://img.shields.io/badge/Tool-DataGrip-informational?style=for-the-badge&logo=jetbrains&logoColor=white&color=00B4A0" />
   <img src="https://img.shields.io/badge/Tool-Git-informational?style=for-the-badge&logo=git&logoColor=white&color=F05032" />
   <img src="https://img.shields.io/badge/Tool-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=2496ED" />
-  <img src="https://img.shields.io/badge/Tool-AWS-informational?style=for-the-badge&logo=icloud&logoColor=white&color=232F3E" />
-  <img src="https://img.shields.io/badge/Tool-Cloudflare-informational?style=for-the-badge&logo=cloudflare&logoColor=white&color=F38020" />
   <img src="https://img.shields.io/badge/Tool-Bitbucket-informational?style=for-the-badge&logo=bitbucket&logoColor=white&color=0052CC" />
   <img src="https://img.shields.io/badge/Tool-Jira-informational?style=for-the-badge&logo=jira&logoColor=white&color=0052CC" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cloud-AWS-informational?style=for-the-badge&logo=icloud&logoColor=white&color=232F3E" />
+  <img src="https://img.shields.io/badge/Cloud-Cloudflare-informational?style=for-the-badge&logo=cloudflare&logoColor=white&color=F38020" />
+  <img src="https://img.shields.io/badge/Cloud-Vercel-informational?style=for-the-badge&logo=vercel&logoColor=white&color=000000" />
 </p>
 
 <p align="center">
