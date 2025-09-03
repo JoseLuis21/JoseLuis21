@@ -9,17 +9,17 @@
 ## 🔧 Techologies & Tools
 
 <p align="center">
-   <img src="https://img.shields.io/badge/Lang-Golang-informational?style=for-the-badge&logo=go&logoColor=white&color=36BBF7" />
-  <img src="https://img.shields.io/badge/Lang-Php-informational?style=for-the-badge&logo=php&logoColor=white&color=36BBF7" />
-  <img src="https://img.shields.io/badge/Lang-Javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=36BBF7" />
-  <img src="https://img.shields.io/badge/Lang-TypeScript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=36BBF7" />
-  <img src="https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=36BBF7" />
+  <img src="https://img.shields.io/badge/Lang-Golang-informational?style=for-the-badge&logo=go&logoColor=white&color=00ADD8" />
+  <img src="https://img.shields.io/badge/Lang-PHP-informational?style=for-the-badge&logo=php&logoColor=white&color=777BB4" />
+  <img src="https://img.shields.io/badge/Lang-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=F7DF1E" />
+  <img src="https://img.shields.io/badge/Lang-TypeScript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=3178C6" />
+  <img src="https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=4EAA25" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Tool-Git-informational?style=for-the-badge&logo=git&logoColor=white&color=36BBF7" />
-  <img src="https://img.shields.io/badge/Tool-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=36BBF7" />
-  <img src="https://img.shields.io/badge/Tool-AWS-informational?style=for-the-badge&logo=aws&logoColor=white&color=36BBF7" />
+  <img src="https://img.shields.io/badge/Tool-Git-informational?style=for-the-badge&logo=git&logoColor=white&color=F05032" />
+  <img src="https://img.shields.io/badge/Tool-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=2496ED" />
+  <img src="https://img.shields.io/badge/Tool-AWS-informational?style=for-the-badge&logo=amazon-aws&logoColor=white&color=232F3E" />
 </p>
 
 <p align="center">
