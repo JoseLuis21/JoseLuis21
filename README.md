@@ -34,6 +34,8 @@
   <img src="https://img.shields.io/badge/Tool-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=2496ED" />
   <img src="https://img.shields.io/badge/Tool-AWS-informational?style=for-the-badge&logo=icloud&logoColor=white&color=232F3E" />
   <img src="https://img.shields.io/badge/Tool-Cloudflare-informational?style=for-the-badge&logo=cloudflare&logoColor=white&color=F38020" />
+  <img src="https://img.shields.io/badge/Tool-Bitbucket-informational?style=for-the-badge&logo=bitbucket&logoColor=white&color=0052CC" />
+  <img src="https://img.shields.io/badge/Tool-Jira-informational?style=for-the-badge&logo=jira&logoColor=white&color=0052CC" />
 </p>
 
 <p align="center">
