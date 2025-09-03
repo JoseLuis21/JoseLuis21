@@ -25,6 +25,11 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/API-Twilio-informational?style=for-the-badge&logo=twilio&logoColor=white&color=F22F46" />
+  <img src="https://img.shields.io/badge/API-SendGrid-informational?style=for-the-badge&logo=sendgrid&logoColor=white&color=008CDD" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/DB-MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1" />
   <img src="https://img.shields.io/badge/DB-PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=4169E1" />
   <img src="https://img.shields.io/badge/DB-MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=47A248" />
