@@ -16,6 +16,10 @@
   <img src="https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=4EAA25" />
   <img src="https://img.shields.io/badge/Lang-JSON-informational?style=for-the-badge&logo=json&logoColor=white&color=000000" />
   <img src="https://img.shields.io/badge/Lang-XML-informational?style=for-the-badge&logoColor=white&color=8A2BE2" />
+  <img src="https://img.shields.io/badge/Framework-Next.js-informational?style=for-the-badge&logo=next.js&logoColor=white&color=000000" />
+  <img src="https://img.shields.io/badge/Framework-TailwindCSS-informational?style=for-the-badge&logo=tailwindcss&logoColor=white&color=06B6D4" />
+  <img src="https://img.shields.io/badge/Framework-Laravel-informational?style=for-the-badge&logo=laravel&logoColor=white&color=FF2D20" />
+  <img src="https://img.shields.io/badge/Framework-NestJS-informational?style=for-the-badge&logo=nestjs&logoColor=white&color=E0234E" />
 </p>
 
 <p align="center">
