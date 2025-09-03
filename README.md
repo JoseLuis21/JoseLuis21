@@ -8,7 +8,7 @@
 
 ## ⚡ Technologies
 
-<p align="">
+<p align="center">
   <img src="https://img.shields.io/badge/Lang-Golang-informational?style=for-the-badge&logo=go&logoColor=white&color=00ADD8" />
   <img src="https://img.shields.io/badge/Lang-PHP-informational?style=for-the-badge&logo=php&logoColor=white&color=777BB4" />
   <img src="https://img.shields.io/badge/Lang-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=F7DF1E" />
@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Lang-XML-informational?style=for-the-badge&logo=devbox&logoColor=white&color=8A2BE2" />
   <img src="https://img.shields.io/badge/Lang-Node.js-informational?style=for-the-badge&logo=nodedotjs&logoColor=white&color=339933" />
 </p>
-<p align="">
+<p align="center">
   <img src="https://img.shields.io/badge/Framework-Fiber_v2_Go-informational?style=for-the-badge&logo=framework&logoColor=white&color=00ADD8" />
   <img src="https://img.shields.io/badge/Framework-React-informational?style=for-the-badge&logo=react&logoColor=61DAFB&color=00ADD8" />
   <img src="https://img.shields.io/badge/Framework-Next.js-informational?style=for-the-badge&logo=next.js&logoColor=white&color=000000" />
@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Framework-NestJS-informational?style=for-the-badge&logo=nestjs&logoColor=white&color=E0234E" />
 </p>
 
-<p align="">
+<p align="center">
   <img src="https://img.shields.io/badge/Tool-VS_Code-informational?style=for-the-badge&logo=devbox&logoColor=white&color=007ACC" />
   <img src="https://img.shields.io/badge/Tool-GitHub_Copilot-informational?style=for-the-badge&logo=githubcopilot&logoColor=white&color=000000" />
   <img src="https://img.shields.io/badge/Tool-DataGrip-informational?style=for-the-badge&logo=jetbrains&logoColor=white&color=00B4A0" />
@@ -37,14 +37,14 @@
   <img src="https://img.shields.io/badge/Tool-Jira-informational?style=for-the-badge&logo=jira&logoColor=white&color=0052CC" />
 </p>
 
-<p align="">
+<p align="center">
   <img src="https://img.shields.io/badge/Cloud-AWS-informational?style=for-the-badge&logo=icloud&logoColor=white&color=232F3E" />
   <img src="https://img.shields.io/badge/Cloud-Cloudflare-informational?style=for-the-badge&logo=cloudflare&logoColor=white&color=F38020" />
   <img src="https://img.shields.io/badge/Cloud-Vercel-informational?style=for-the-badge&logo=vercel&logoColor=white&color=000000" />
   <img src="https://img.shields.io/badge/Cloud-GitHub_Actions-informational?style=for-the-badge&logo=githubactions&logoColor=white&color=2088FF" />
 </p>
 
-<p align="">
+<p align="center">
   <img src="https://img.shields.io/badge/API-Twilio-informational?style=for-the-badge&logo=twilio&logoColor=white&color=F22F46" />
   <img src="https://img.shields.io/badge/API-SendGrid-informational?style=for-the-badge&logo=sendgrid&logoColor=white&color=008CDD" />
   <img src="https://img.shields.io/badge/API-HubSpot-informational?style=for-the-badge&logo=hubspot&logoColor=white&color=FF7A59" />
@@ -54,7 +54,7 @@
   <img src="https://img.shields.io/badge/API-Google_Gemini-informational?style=for-the-badge&logo=googlegemini&logoColor=white&color=8E75B2" />
 </p>
 
-<p align="">
+<p align="center">
   <img src="https://img.shields.io/badge/DB-MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1" />
   <img src="https://img.shields.io/badge/DB-PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=4169E1" />
   <img src="https://img.shields.io/badge/DB-MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=47A248" />
