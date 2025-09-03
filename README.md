@@ -13,8 +13,6 @@
 </div>
 
 
-[![JoseLuis21 GitHub stats](https://github-readme-stats.vercel.app/api?username=joseluis21&show_icons=true&theme=dracula)](https://github.com/joseluis21/github-readme-stats)
-
 <a href="https://github.com/JoseLuis21/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=joseluis21&show_icons=true&theme=dracula" />
 </a>
