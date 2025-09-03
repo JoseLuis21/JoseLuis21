@@ -20,12 +20,14 @@
   <img src="https://img.shields.io/badge/Tool-Git-informational?style=for-the-badge&logo=git&logoColor=white&color=F05032" />
   <img src="https://img.shields.io/badge/Tool-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=2496ED" />
   <img src="https://img.shields.io/badge/Tool-AWS-informational?style=for-the-badge&logo=icloud&logoColor=white&color=232F3E" />
+  <img src="https://img.shields.io/badge/Tool-Cloudflare-informational?style=for-the-badge&logo=cloudflare&logoColor=white&color=F38020" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/DB-MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1" />
   <img src="https://img.shields.io/badge/DB-PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=4169E1" />
   <img src="https://img.shields.io/badge/DB-MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=47A248" />
+  <img src="https://img.shields.io/badge/DB-Redis-informational?style=for-the-badge&logo=redis&logoColor=white&color=DC382D" />
 </p>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
