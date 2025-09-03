@@ -64,10 +64,6 @@
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseLuis21&layout=compact&theme=radical)](https://github.com/JoseLuis21/github-readme-stats)
-
-
-
  <div align="center"  class="icons-social" style="margin-left: 10px; margin-bottom:50px;">
    <a href="mailto:josephluihs@gmail.com"><img alt="Gmail" title="José Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
