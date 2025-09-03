@@ -12,9 +12,10 @@
    <a href="mailto:josephluihs@gmail.com"><img alt="Gmail" title="José Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
-
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
 <a href="https://github.com/JoseLuis21/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=joseluis21&show_icons=true&theme=dracula" />
 </a>
+  </div>
 ------
 Last Edited on: 03/10/2025
