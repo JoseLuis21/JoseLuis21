@@ -14,6 +14,8 @@
   <img src="https://img.shields.io/badge/Lang-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=F7DF1E" />
   <img src="https://img.shields.io/badge/Lang-TypeScript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=3178C6" />
   <img src="https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=4EAA25" />
+  <img src="https://img.shields.io/badge/Lang-JSON-informational?style=for-the-badge&logo=json&logoColor=white&color=000000" />
+  <img src="https://img.shields.io/badge/Lang-XML-informational?style=for-the-badge&logoColor=white&color=8A2BE2" />
 </p>
 
 <p align="center">
