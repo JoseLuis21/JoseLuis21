@@ -11,6 +11,10 @@
  <div align="center"  class="icons-social" style="margin-left: 10px; margin-bottom:50px;">
    <a href="mailto:josephluihs@gmail.com"><img alt="Gmail" title="José Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
+<br/>
+<br/>
+<br/>
+<br/>
 
  <div align="center"  class="icons-social" style="margin-left: 10px; margin-top:50px;">
 <a href="https://github.com/JoseLuis21/github-readme-stats">
