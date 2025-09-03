@@ -35,6 +35,7 @@
   <img src="https://img.shields.io/badge/API-Twilio-informational?style=for-the-badge&logo=twilio&logoColor=white&color=F22F46" />
   <img src="https://img.shields.io/badge/API-SendGrid-informational?style=for-the-badge&logo=sendgrid&logoColor=white&color=008CDD" />
   <img src="https://img.shields.io/badge/API-HubSpot-informational?style=for-the-badge&logo=hubspot&logoColor=white&color=FF7A59" />
+  <img src="https://img.shields.io/badge/API-Google_Ads-informational?style=for-the-badge&logo=googleads&logoColor=white&color=4285F4" />
 </p>
 
 <p align="center">
