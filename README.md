@@ -29,7 +29,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Tool-VS_Code-informational?style=for-the-badge&logo=devbox&logoColor=white&color=007ACC" />
   <img src="https://img.shields.io/badge/Tool-GitHub_Copilot-informational?style=for-the-badge&logo=githubcopilot&logoColor=white&color=000000" />
-  <img src="https://img.shields.io/badge/Tool-DataGrip-informational?style=for-the-badge&logo=jetbrains&logoColor=white&color=000000" />
+  <img src="https://img.shields.io/badge/Tool-DataGrip-informational?style=for-the-badge&logo=jetbrains&logoColor=white&color=00B4A0" />
   <img src="https://img.shields.io/badge/Tool-Git-informational?style=for-the-badge&logo=git&logoColor=white&color=F05032" />
   <img src="https://img.shields.io/badge/Tool-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=2496ED" />
   <img src="https://img.shields.io/badge/Tool-AWS-informational?style=for-the-badge&logo=icloud&logoColor=white&color=232F3E" />
