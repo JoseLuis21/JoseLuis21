@@ -48,5 +48,5 @@
   <br/>
 
 <p align="center">
-Last Edited on: 03/10/2025
+Last edited on: 03/10/2025
 </p>
