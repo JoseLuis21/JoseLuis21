@@ -19,7 +19,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Tool-Git-informational?style=for-the-badge&logo=git&logoColor=white&color=36BBF7" />
   <img src="https://img.shields.io/badge/Tool-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=36BBF7" />
-  <img src="https://img.shields.io/badge/Tool-AWS-informational?style=for-the-badge&logo=amazon-aws&logoColor=white&color=36BBF7" />
+  <img src="https://img.shields.io/badge/Tool-AWS-informational?style=for-the-badge&logo=aws&logoColor=white&color=36BBF7" />
 </p>
 
 
