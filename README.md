@@ -49,6 +49,7 @@
   <img src="https://img.shields.io/badge/API-Google_Ads-informational?style=for-the-badge&logo=googleads&logoColor=white&color=4285F4" />
   <img src="https://img.shields.io/badge/API-Webpay-informational?style=for-the-badge&logo=visa&logoColor=white&color=004481" />
   <img src="https://img.shields.io/badge/API-OpenAI-informational?style=for-the-badge&logo=openai&logoColor=white&color=412991" />
+  <img src="https://img.shields.io/badge/API-Google-Gemini-informational?style=for-the-badge&logo=googlegemini&logoColor=white&color=412991" />
 </p>
 
 <p align="center">
