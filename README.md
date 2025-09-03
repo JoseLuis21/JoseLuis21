@@ -40,6 +40,7 @@
   <img src="https://img.shields.io/badge/Cloud-AWS-informational?style=for-the-badge&logo=icloud&logoColor=white&color=232F3E" />
   <img src="https://img.shields.io/badge/Cloud-Cloudflare-informational?style=for-the-badge&logo=cloudflare&logoColor=white&color=F38020" />
   <img src="https://img.shields.io/badge/Cloud-Vercel-informational?style=for-the-badge&logo=vercel&logoColor=white&color=000000" />
+  <img src="https://img.shields.io/badge/Cloud-GitHub_Actions-informational?style=for-the-badge&logo=githubactions&logoColor=white&color=2088FF" />
 </p>
 
 <p align="center">
