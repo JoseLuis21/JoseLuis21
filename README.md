@@ -12,5 +12,8 @@
    <a href="mailto:josephluihs@gmail.com"><img alt="Gmail" title="José Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
+<div align="center"  class="icons-social" style="margin-left: 10px;">
+![JoseLuis21's github stats](https://github-readme-stats.vercel.app/api?username=joseluis21&show_icons=true&theme=tokyonight&count_private=true&hide=stars&include_all_commits=true)
+</div>
 ------
 Last Edited on: 03/10/2025
