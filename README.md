@@ -13,7 +13,7 @@
 </div>
 
 
-[![JoseLuis21 GitHub stats](https://github-readme-stats.vercel.app/api?username=joseluis21)](https://github.com/joseluis21/github-readme-stats)
+[![JoseLuis21 GitHub stats](https://github-readme-stats.vercel.app/api?username=joseluis21&show_icons=true&theme=dracula)](https://github.com/joseluis21/github-readme-stats)
 
 ------
 Last Edited on: 03/10/2025
