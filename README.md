@@ -10,7 +10,7 @@
 
 <p align="center">
    <img src="https://img.shields.io/badge/Lang-Golang-informational?style=for-the-badge&logo=go&logoColor=white&color=36BBF7" />
-  <img src="https://img.shields.io/badge/Lang-Php-informational?style=for-the-badge&logo=python&logoColor=white&color=36BBF7" />
+  <img src="https://img.shields.io/badge/Lang-Php-informational?style=for-the-badge&logo=php&logoColor=white&color=36BBF7" />
   <img src="https://img.shields.io/badge/Lang-Javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=36BBF7" />
   <img src="https://img.shields.io/badge/Lang-TypeScript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=36BBF7" />
   <img src="https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=36BBF7" />
