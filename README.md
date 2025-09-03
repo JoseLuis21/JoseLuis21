@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/Lang-Node.js-informational?style=for-the-badge&logo=nodedotjs&logoColor=white&color=339933" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Framework-Fiber_v2_Go-informational?style=for-the-badge&logoColor=white&color=00ADD8" />
+  <img src="https://img.shields.io/badge/Framework-Fiber_v2_Go-informational?style=for-the-badge&logo=framework&logoColor=white&color=00ADD8" />
   <img src="https://img.shields.io/badge/Framework-React-informational?style=for-the-badge&logo=react&logoColor=61DAFB&color=00ADD8" />
   <img src="https://img.shields.io/badge/Framework-Next.js-informational?style=for-the-badge&logo=next.js&logoColor=white&color=000000" />
   <img src="https://img.shields.io/badge/Framework-TailwindCSS-informational?style=for-the-badge&logo=tailwindcss&logoColor=white&color=06B6D4" />
