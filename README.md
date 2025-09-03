@@ -22,6 +22,11 @@
   <img src="https://img.shields.io/badge/Tool-AWS-informational?style=for-the-badge&logo=aws&logoColor=white&color=36BBF7" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/DB-MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1" />
+  <img src="https://img.shields.io/badge/DB-PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=4169E1" />
+  <img src="https://img.shields.io/badge/DB-MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=47A248" />
+</p>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
