@@ -13,15 +13,16 @@
 </div>
 <br/>
 <br/>
-<br/>
-<br/>
+
 
  <div align="center"  class="icons-social" style="margin-left: 10px; margin-top:50px;">
 <a href="https://github.com/JoseLuis21/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=joseluis21&show_icons=true&theme=dracula" />
 </a>
   </div>
+  <br/>
+  <br/>
 
-<p>
+<p align="center">
 Last Edited on: 03/10/2025
 </p>
