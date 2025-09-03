@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/Framework-TailwindCSS-informational?style=for-the-badge&logo=tailwindcss&logoColor=white&color=06B6D4" />
   <img src="https://img.shields.io/badge/Framework-Laravel-informational?style=for-the-badge&logo=laravel&logoColor=white&color=FF2D20" />
   <img src="https://img.shields.io/badge/Framework-NestJS-informational?style=for-the-badge&logo=nestjs&logoColor=white&color=E0234E" />
+  <img src="https://img.shields.io/badge/Framework-Fiber_v2-informational?style=for-the-badge&logoColor=white&color=00ADD8" />
 </p>
 
 <p align="center">
