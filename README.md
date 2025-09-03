@@ -16,6 +16,12 @@
   <img src="https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=36BBF7" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Tool-Git-informational?style=for-the-badge&logo=git&logoColor=white&color=36BBF7" />
+  <img src="https://img.shields.io/badge/Tool-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=36BBF7" />
+  <img src="https://img.shields.io/badge/Tool-AWS-informational?style=for-the-badge&logo=amazon-aws&logoColor=white&color=36BBF7" />
+</p>
+
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
