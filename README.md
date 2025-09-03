@@ -4,6 +4,19 @@
 <a href="https://github.com/JoseLuis21"><img src="https://readme-typing-svg.herokuapp.com?font=Lilita+One&size=35&pause=1000&center=true&vCenter=true&width=435&lines=%2B10++years+coding+experience;Always+learning+new+tech" alt="José Github" /></a>
 </p>
 
+
+
+## 🔧 Techologies & Tools
+
+<p align="center">
+   <img src="https://img.shields.io/badge/Lang-Golang-informational?style=for-the-badge&logo=go&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Lang-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Lang-Javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Lang-TypeScript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=2bbc8a" />
+</p>
+
+
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 
