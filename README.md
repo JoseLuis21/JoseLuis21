@@ -52,6 +52,8 @@
   <img src="https://img.shields.io/badge/API-Webpay-informational?style=for-the-badge&logo=visa&logoColor=white&color=004481" />
   <img src="https://img.shields.io/badge/API-OpenAI-informational?style=for-the-badge&logo=openai&logoColor=white&color=412991" />
   <img src="https://img.shields.io/badge/API-Google_Gemini-informational?style=for-the-badge&logo=googlegemini&logoColor=white&color=8E75B2" />
+  <img src="https://img.shields.io/badge/AI-Claude%20Code-informational?style=for-the-badge&logo=anthropic&logoColor=white&color=D97757" />
+  <img src="https://img.shields.io/badge/AI-Codex-informational?style=for-the-badge&logo=openai&logoColor=white&color=000000" />
 </p>
 
 <p align="center">
@@ -72,5 +74,5 @@
 
 
 <p align="center">
-Last edited on: 03/09/2025
+Last edited on: 14/09/2026
 </p>
