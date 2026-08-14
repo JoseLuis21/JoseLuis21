@@ -1,7 +1,7 @@
 
 <h1 align="center"> <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px /> Web Developer</h1>
 <p align="center">
-<a href="https://github.com/JoseLuis21"><img src="https://readme-typing-svg.herokuapp.com?font=Lilita+One&size=35&pause=1000&center=true&vCenter=true&width=435&lines=%2B10++years+coding+experience;Always+learning+new+tech" alt="José Github" /></a>
+<a href="https://github.com/JoseLuis21"><img src="https://readme-typing-svg.herokuapp.com?font=Lilita+One&size=35&pause=1000&center=true&vCenter=true&width=435&lines=%2B14++years+coding+experience;Always+learning+new+tech" alt="José Github" /></a>
 </p>
 
 
